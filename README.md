@@ -117,3 +117,5 @@ To access onion markets, always use the official onion URLs. Verify the link's a
 Onion markets are powerful tools for private, anonymous transactions. By adhering to security best practices, using escrow, and being cautious, you can navigate these markets securely. Always verify URLs, use encryption, and stay vigilant against scams to ensure a secure and successful experience.
 
 Please contribute and add stars to this repo.
+
+Update:  Wednesday 11 June 2025 Download URLs
