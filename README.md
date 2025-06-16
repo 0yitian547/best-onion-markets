@@ -120,4 +120,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  13.06.2025
+
+
+Update: Fixed inaccessible link
