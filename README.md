@@ -122,4 +122,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Fixed inaccessible link
+
+
+Update: Link is now responsive and live
