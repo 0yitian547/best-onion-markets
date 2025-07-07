@@ -134,4 +134,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  07/04/2025 04-38 Fixed broken url, now reachable
+
+
+Update: Font URLs
