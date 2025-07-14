@@ -136,4 +136,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update: Font URLs
+
+
+Update:  14.07.2025 url is now functioning and accessible
