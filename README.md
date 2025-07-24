@@ -142,4 +142,6 @@ Please contribute and add stars to this repo.
 
 
 
-Update:  21 July
+
+
+Update:  24 July 2025 Broken anchors
